@@ -13,13 +13,16 @@ Offset | Size | Description
 0x41 | 0x1 | Not fully known?; 0x14 = LoROM, 0x15 = HiROM
 
 ROM size indicator values:
-* 512kb = 0x08
-* 1mb = 0x10
-* 1.5mb = 0x18
-* 2mb = 0x20
-* 2.5mb = 0x28
-* 3mb = 0x30
-* 3.5mb = 0x38
-* 4mb = 0x40
-* 4.5mb = 0x48
-* 5mb = 0x50
+
+Size(bytes) | Size(bits) | Value
+--- | --- | ---
+512kb | 4mbit | 0x08
+1mb   | 8mbit | 0x10
+1.5mb | 12mbit | 0x18
+2mb   | 16mbit | 0x20
+2.5mb | 20mbit | 0x28
+3mb   | 24mbit | 0x30
+3.5mb | 28mbit | 0x38
+4mb   | 32mbit | 0x40
+4.5mb | 36mbit | 0x48
+5mb   | 40mbit | 0x50
