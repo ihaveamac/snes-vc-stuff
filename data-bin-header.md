@@ -16,13 +16,15 @@ ROM size indicator values:
 
 Size(bytes) | Size(bits) | Value
 --- | --- | ---
-512kb | 4mbit | 0x08
-1mb   | 8mbit | 0x10
-1.5mb | 12mbit | 0x18
-2mb   | 16mbit | 0x20
-2.5mb | 20mbit | 0x28
-3mb   | 24mbit | 0x30
-3.5mb | 28mbit | 0x38
-4mb   | 32mbit | 0x40
-4.5mb | 36mbit | 0x48
-5mb   | 40mbit | 0x50
+512kib | 4mbit | 0x08
+1mib | 8mbit | 0x10
+1.5mib | 12mbit | 0x18
+2mib | 16mbit | 0x20
+2.5mib | 20mbit | 0x28
+3mib | 24mbit | 0x30
+3.5mib | 28mbit | 0x38
+4mib | 32mbit | 0x40
+4.5mib | 36mbit | 0x48
+5mib | 40mbit | 0x50
+5.5mib | 44mbit | 0x58
+6mib | 48mbit | 0x60
